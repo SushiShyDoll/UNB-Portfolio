@@ -28,7 +28,7 @@ export const team: Member[] = [
     photo: "/images/kobe.jpg?v=4",
     accent: "#302d2b",
     tagline: "Frontend Architect & Creative Designer",
-    bio: "Lorem ipsum dolor sit amet consectetur adipiscing corrupti sit adipiscing soluta ullamco et dolores praesentium est voluptas assumenda sint imperdiet nihil qui dolor et expedita tempor omnis ut in aute eu cupiditate in nulla",
+    bio: "DOST Scholar and BSIT student who turns challenges into growth. I thrive on learning, adapt quickly, and commit fully to what I start. Focused, curious, and ready to take on opportunities that push me beyond my comfort zone.",
     skills: ["TypeScript", "React", "UI/UX Design", "Vite", "Tailwind CSS"],
     projects: [
       { title: "UNB Collective Portal", description: "Modern portfolio experience with railway track navigation and interactive profile drawers." },
