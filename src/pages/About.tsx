@@ -34,22 +34,21 @@ export default function About() {
 
           <div className="about-desc-col">
             <p className="about-lead-text">
-              <strong>UNB</strong> (United Nation Boys) is a creative and engineering collective
-              forged in the lecture halls, workshop laboratories, and campus grounds of <strong>TUP-Manila</strong> (Technological
-              University of the Philippines). Unified by a deep curiosity for technology and design, we crossed paths as
-              engineering students driven by a mutual instinct to build, experiment, and turn ambitious ideas into functional realities.
+              <strong>UNB (United Nation Boys)</strong> is a group of friends brought together at the{" "}
+              <strong>Technological University of the Philippines - Manila (TUP-Manila)</strong>, under the{" "}
+              <strong>College of Science</strong>, where we pursue a degree in{" "}
+              <strong>Bachelor of Science in Information Technology (BSIT)</strong>. United by our shared interest in technology,
+              creativity, and innovation, we developed a friendship that grew beyond the classroom.
             </p>
             <p className="about-body-text">
-              What began as daily train ride conversations waiting on the platform of the United Nations LRT-1 Station quickly
-              matured into our creative incubator. Every afternoon commute became an open forum for exchanging code architectures,
-              critiquing user interfaces, untangling thesis problems, and sharing personal goals—transforming routine transit through
-              Manila's historic university belt into the foundation of our collective identity.
+              Our name was inspired by the <strong>United Nations LRT-1 Station</strong>, a familiar stop we frequently pass through
+              on our way home. What started as casual conversations during our daily commutes gradually became a space for exchanging
+              ideas, discussing projects, sharing experiences, and exploring our interests in technology and design.
             </p>
             <p className="about-body-text">
-              Through demanding academic deadlines, collaborative hackathons, competitive capstone projects, and real-world freelance
-              dispatches, our bond evolved from university peers into a dedicated brotherhood. Today, UNB stands as both an engineering alliance
-              and a lifelong creative cohort, combining our individual specializations across systems, design, web, and cloud infrastructure
-              to craft polished, purposeful digital experiences.
+              Over time, our shared experiences and academic journey shaped UNB into more than just a circle of friends. Today,
+              we bring together our individual skills, ideas, and perspectives to collaborate on projects, explore creative
+              possibilities, and turn concepts into meaningful digital experiences.
             </p>
           </div>
         </div>
@@ -84,10 +83,11 @@ export default function About() {
 
               <div className="sub-col sub-content-col">
                 <p className="sub-desc">
-                  UNB was forged in the lecture halls, computer laboratories, and engineering workshops
-                  of TUP-Manila (Technological University of the Philippines). Our academic discipline
-                  and technical foundation took root here, where rigorous coursework, hands-on lab experiments,
-                  and collaborative problem-solving challenged us to become resourceful builders.
+                    UNB was formed within the lecture halls, computer laboratories, and campus grounds of TUP-Manila 
+                    (Technological University of the Philippines). 
+                    As students of the College of Science pursuing Bachelor of Science in Information Technology, 
+                    we built our foundation through academic challenges, hands-on technical work, and collaborative 
+                    problem-solving, shaping the skills and experiences that continue to bring us together.
                 </p>
               </div>
             </div>
@@ -96,10 +96,10 @@ export default function About() {
             <div className="about-sub-row reversed">
               <div className="sub-col sub-content-col">
                 <p className="sub-desc">
-                  Every afternoon, our homeward commute converged at the United Nations LRT-1 Station platform.
-                  What began as train ride stories and daily reunions waiting on the platform quickly evolved
-                  into a dedicated circle of builders, designers, and creative thinkers—giving birth to our
-                  group's name and turning routine commutes into shared brainstorming sessions.
+                  Our daily journeys home often brought us together at the United Nations LRT-1 Station. 
+                  What started as casual conversations and shared train rides gradually grew into a space for exchanging ideas,
+                  discussing projects, and sharing experiences. The station eventually became the inspiration behind our name,
+                    UNB, and a reminder of the friendships that brought us together.
                 </p>
               </div>
 

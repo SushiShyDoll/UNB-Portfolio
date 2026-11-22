@@ -74,7 +74,7 @@ export default function Team({ onSelectMember }: TeamProps) {
                     />
                   </div>
 
-                  <h3 className="member-handle">{m.handle}</h3>
+                  <h3 className="member-handle">{m.name}</h3>
 
                   <p className="member-bio">{m.bio}</p>
 
